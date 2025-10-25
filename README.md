@@ -72,4 +72,3 @@ See file: `analysis_queries.sql`
 ---
 
 📎 *Author:* Anmol Raj  
-📎 *GitHub:* [your GitHub link here]
