@@ -70,5 +70,3 @@ See file: `analysis_queries.sql`
 ✅ Project demonstrates SQL-based **fraud analytics capability**, perfect for **Risk Analyst roles at Amazon**  
 
 ---
-
-📎 *Author:* Anmol Raj  
